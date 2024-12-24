@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal_Camp\\P_Unreal\\day3\\Source\\day3\\day3.Build.cs",
+		"C:\\Unreal_Camp\\P_Unreal\\day3\\Source\\day3.Target.cs",
+		"C:\\Unreal_Camp\\P_Unreal\\day3\\Source\\day3Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
