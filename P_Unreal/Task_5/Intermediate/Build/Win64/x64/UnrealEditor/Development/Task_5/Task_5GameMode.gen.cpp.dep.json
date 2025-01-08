@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_camp\\unrealcamp\\p_unreal\\task_5\\intermediate\\build\\win64\\unrealeditor\\inc\\task_5\\uht\\task_5gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_camp\\unrealcamp\\p_unreal\\task_5\\intermediate\\build\\win64\\x64\\task_5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_camp\\unrealcamp\\p_unreal\\task_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\task_5\\definitions.task_5.h",
+            "c:\\unreal_camp\\unrealcamp\\p_unreal\\task_5\\source\\task_5\\task_5gamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\unreal_camp\\unrealcamp\\p_unreal\\task_5\\intermediate\\build\\win64\\unrealeditor\\inc\\task_5\\uht\\task_5gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

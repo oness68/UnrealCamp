@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_camp\\unrealcamp\\p_unreal\\task_5\\intermediate\\build\\win64\\unrealeditor\\inc\\task_5\\uht\\task_5.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_camp\\unrealcamp\\p_unreal\\task_5\\intermediate\\build\\win64\\x64\\task_5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_camp\\unrealcamp\\p_unreal\\task_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\task_5\\definitions.task_5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

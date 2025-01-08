@@ -1,23 +1,23 @@
 #include<iostream>
+#include <string>
+#include <vector>
 
 using namespace std;
 
-
-int solution(int n) {
-    int answer = 0;
-
-    for (int i = 1; i <= n; i++)
+double solution(vector<int> numbers) {
+    double answer = 0;
+    double sum;
+    for (int i = 0; i < numbers.size(); i++)
     {
-        if (i % 2 == 0)
-        {
-            answer += i;
-        }
+        sum += numbers[i];
     }
+    answer = sum / numbers.size();
+    
     return answer;
 }
-
 int main()
 {
-    cout<< solution(10);
+    vector<int> v = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+    cout<< solution(v);
 }
 
